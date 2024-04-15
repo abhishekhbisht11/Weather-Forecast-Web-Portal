@@ -1,1 +1,2 @@
 # Weather-Forecast-Web-Portal
+This web application aims to provide users with real-time weather information for a specified city. It retrieves and displays current weather details including temperature, humidity, pressure, wind speed, sunrise, and sunset time. Additionally, it offers a 7-day weather forecast with maximum and minimum temperatures for each day. Users can toggle between day and night modes for different visual experiences.
